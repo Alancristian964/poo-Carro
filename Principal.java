@@ -6,9 +6,6 @@ public class Principal {
     public static void main(String[] args){
         Carro c = new Carro();
         Scanner sc = new Scanner(System.in);
-        Scanner sc2 = new Scanner(System.in);
-        Scanner sc3 = new Scanner(System.in);
-        
         
         System.out.println("\n		OS COMANDOS SÃO:\n\n 	in    ---- Para embarcar passageiros\n 	out   ---- Para desembarcar passageiros\n 	fuel  ---- para adicionar combustivel\n        show  ---- para mostrar detalhes\n 	drive ---- para andar\n\n");
       
